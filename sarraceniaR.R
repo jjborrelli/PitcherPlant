@@ -1,4 +1,4 @@
-# Now in my github repo
+# Now in my github repo - test commit
 library(igraph)
 library(NetIndices)
 
